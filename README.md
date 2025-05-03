@@ -15,7 +15,7 @@ Cycling: When I'm not working with electronics, you’ll probably find me enjoyi
 I'm sharpening my skills in areas like:
 
 Digital logic design and embedded systems
-Programming languages (Python, C, VHDL, etc.)
+Programming languages (C, C++,  VHDL, etc.)
 Building efficient, robust, and scalable solutions
 
 🤝 Collaboration
